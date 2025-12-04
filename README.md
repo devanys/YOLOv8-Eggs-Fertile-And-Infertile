@@ -1,4 +1,4 @@
-# YoLo-Eggs-Fertile-And-Infertile
+# YOLOv8-Eggs-Fertile-And-Infertile
 https://colab.research.google.com/drive/1N-B2PHY-6EYyLkJ2EMI9QHM0l_UBdGba?usp=sharing
 <img width="1851" height="659" alt="Screenshot 2025-12-04 210827" src="https://github.com/user-attachments/assets/d20e954d-2bc8-41c8-a8f1-27e6bfe9adab" />
 ![train_batch2090](https://github.com/user-attachments/assets/e82a7908-47ca-4d7d-8b4c-2aaea03901a9)
